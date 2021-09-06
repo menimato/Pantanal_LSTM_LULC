@@ -17,3 +17,5 @@ Files:
         + 3 - Non Forest Natural Formation
         + 4 - Farming
         + 5 - Non Vegetated Areas
+
+![](Pantanal_LULC_thumbnail.png)
